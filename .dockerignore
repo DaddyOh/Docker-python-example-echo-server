@@ -1,5 +1,6 @@
 build.sh
 run.sh
-README.txt
+cleanup_docker.sh
 README.md
 .gitignore
+LICENSE.md
